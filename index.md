@@ -2,3 +2,7 @@
 ## This is the sub-heading
 
 ![An image of Ariyo Aresa](https://avatars.githubusercontent.com/u/108690633?v=4)
+
+```
+<script src="https://ariyoaresa.me/darkmodejs/darkmode.js"></script>
+```
